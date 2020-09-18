@@ -1,0 +1,9 @@
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\obj\Debug\ModelDao.csprojAssemblyReference.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\obj\Debug\ModelDao.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\bin\Debug\ModelDao.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\bin\Debug\ModelDao.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\bin\Debug\ModelEntity.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\bin\Debug\ModelEntity.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\obj\Debug\ModelDao.csproj.CopyComplete
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\obj\Debug\ModelDao.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelDao\obj\Debug\ModelDao.pdb

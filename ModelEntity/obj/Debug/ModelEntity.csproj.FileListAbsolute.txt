@@ -1,0 +1,6 @@
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\bin\Debug\ModelEntity.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\bin\Debug\ModelEntity.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\obj\Debug\ModelEntity.csprojAssemblyReference.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\obj\Debug\ModelEntity.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\obj\Debug\ModelEntity.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelEntity\obj\Debug\ModelEntity.pdb

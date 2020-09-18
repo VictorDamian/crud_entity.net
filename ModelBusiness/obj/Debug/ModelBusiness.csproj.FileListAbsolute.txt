@@ -1,0 +1,11 @@
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\obj\Debug\ModelBusiness.csprojAssemblyReference.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\obj\Debug\ModelBusiness.csproj.CoreCompileInputs.cache
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelBusiness.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelBusiness.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelDao.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelEntity.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelDao.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\bin\Debug\ModelEntity.pdb
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\obj\Debug\ModelBusiness.csproj.CopyComplete
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\obj\Debug\ModelBusiness.dll
+C:\Users\DantesMx\source\repos\Identity_Manager\ModelBusiness\obj\Debug\ModelBusiness.pdb
